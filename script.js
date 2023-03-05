@@ -1,6 +1,6 @@
 const iconArray = [
-   "url(images/chat.png)", 
-   "url(images/call.png)",
+   "url(./images/chat.png)", 
+   "url(/images/call.png)",
    "url(images/profile.png)",
    "url(images/burger_x.png)",
    "url(images/search.png)",
